@@ -10,7 +10,7 @@ Teste 8, 80. Baseado em PARETO*¹ o teste 8 - 80 trata-se de uma discussao da fu
 > Autoria do trecho: https://www.significados.com.br/oito-ou-oitenta/  
 
 
-### 2a via:
+### 2a via:*¹
 - '80% do faturamento vem de 20% dos clientes,
 - assim como 80% das reclamações são feitas por 20% dos clientes.'
 
